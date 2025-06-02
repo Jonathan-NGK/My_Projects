@@ -4,6 +4,10 @@
 
 This project presents a robust facial recognition system designed for biometric authentication in both real-time security identification and web-based login applications. It combines state-of-the-art deep learning techniques, data augmentation, and transfer learning to deliver high accuracy in diverse and challenging conditions such as varying lighting, poses, and partial occlusions.
 
+## Demo
+- Please click on the folowing link to get acces on the demo video
+https://drive.google.com/drive/u/1/folders/15GZ70h2_NFOurmSVWvjLvEs64EvM8Esg
+
 ## Features
 
 - 🧠 **Transfer Learning with FaceNet-512**: Utilizes a pre-trained FaceNet model to generate high-dimensional embeddings for face images.
