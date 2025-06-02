@@ -42,28 +42,18 @@ A custom dataset was created consisting of:
    cd Face_Recognition_for_Biometric_Application
    ```
 
-2. **Install dependencies**:
+2. **Install requirement libs**:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the training script**:
-   ```bash
-   python train_model.py
-   ```
 
-4. **Launch the web demo (optional)**:
-   ```bash
-   streamlit run app.py
    ```
 
 ## Results
 
 The system achieved high classification accuracy, demonstrating its ability to generalize well even with significant appearance variations. The 1D-CNN classifier effectively captured discriminative features in the embedding space, enabling reliable identity recognition.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 

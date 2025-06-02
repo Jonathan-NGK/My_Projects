@@ -1,0 +1,8 @@
+pip install numpy,pyhton-opencv
+pip install PIL
+pip install os
+pip install wget
+pip install matplotlib
+pip install imgaug
+pip install keras-facenet
+pip install tensorflow
