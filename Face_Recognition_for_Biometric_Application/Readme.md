@@ -1,4 +1,4 @@
-# Face Recognition for Biometric Application
+# Face Recognition for Biometric Application by Jonathan NGalamulume Kalonji
 
 ## Overview
 
